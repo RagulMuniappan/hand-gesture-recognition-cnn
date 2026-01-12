@@ -96,6 +96,7 @@ Hand-Gesture-Number-Recognition/
 The program will display:
 
 Predicted digit
+
 Confidence score
 
 ---
@@ -108,7 +109,7 @@ Confidence: 0.97
 
 ---
 
-### 🔮 Future Enhancements
+### Future Enhancements
 
 - Real-time webcam prediction 
 - MediaPipe-based hand tracking
